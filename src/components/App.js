@@ -8,6 +8,7 @@ import Stats from "./Stats";
 //   { id: 2, description: "Socks", quantity: 12, packed: true },
 //   { id: 3, description: "Charger", quantity: 12, packed: true },
 // ];
+const x = 0; //schimbare pt Git
 export default function App() {
   const [items, setItems] = useState([]);
 
